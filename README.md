@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Carlos</h1>
 <h3 align="center">Web Developer</h3>
 
-- 🔭 I’m currently working on [Undefined](github.com/CarlosPTN/BookingTwo)
+- 🔭 I’m currently working on [AirBnBZero](https://github.com/CarlosPTN/BookingTwo)
 
 - 🌱 I’m currently learning **Symfony**
 
-- 👨‍💻 All of my projects are available at [github.com/carlosPTN](github.com/carlosPTN)
+- 👨‍💻 All of my projects are available at [https://github.com/carlosPTN](https://github.com/carlosPTN)
 
 - 💬 Ask me about **React, MySQL, JavaScript, PHP, MongoDB,HTML, CSS, TypeScript**
 
